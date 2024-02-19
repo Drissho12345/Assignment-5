@@ -39,7 +39,7 @@ let ticketsArr = [];
 const seats = document.querySelectorAll('.seat');
 const seatCount = document.querySelector('#seat-count');
 const leftSeats = document.querySelector('#total-seats');
-const cuponButton = document.querySelector('#cupon-bton');
+const cuponButton = document.querySelector('#cupon-btn');
 const submitButt = document.querySelector('#submit-button');
 // cupons
 const cuponsArr = ['NEW15', 'Couple 20'];
